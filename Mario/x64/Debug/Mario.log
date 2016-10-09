@@ -1,0 +1,42 @@
+﻿Построение начато 24.05.2016 23:50:33.
+     1>Проект "C:\Users\Daniel\documents\visual studio 2012\Projects\Mario\Mario\Mario.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"C:\SFML-2.3.2\include" /Zi /nologo /W3 /WX- /Od /D SFML_DYNAMIC /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(410): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>main.cpp(415): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>main.cpp(429): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(430): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(439): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(443): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(505): warning C4305: =: усечение из "double" к "float"
+     1>main.cpp(563): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(565): warning C4305: =: усечение из "double" к "float"
+     1>main.cpp(577): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>main.cpp(588): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(589): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(595): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(609): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(610): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(612): warning C4305: =: усечение из "double" к "float"
+     1>main.cpp(624): warning C4305: +=: усечение из "double" к "float"
+     1>main.cpp(630): warning C4305: +=: усечение из "double" к "float"
+     1>main.cpp(643): warning C4305: +=: усечение из "double" к "float"
+     1>main.cpp(657): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(658): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(662): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(760): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+     1>main.cpp(764): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(782): warning C4305: аргумент: усечение из "double" к "float"
+     1>main.cpp(785): warning C4305: аргумент: усечение из "double" к "float"
+     1>main.cpp(791): warning C4305: аргумент: усечение из "double" к "float"
+     1>main.cpp(808): warning C4305: аргумент: усечение из "double" к "float"
+     1>main.cpp(906): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Daniel\documents\visual studio 2012\Projects\Mario\x64\Debug\Mario.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\SFML-2.3.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Daniel\documents\visual studio 2012\Projects\Mario\x64\Debug\Mario.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Daniel\documents\visual studio 2012\Projects\Mario\x64\Debug\Mario.lib" /MACHINE:X64 x64\Debug\main.obj
+         Mario.vcxproj -> C:\Users\Daniel\documents\visual studio 2012\Projects\Mario\x64\Debug\Mario.exe
+     1>Построение проекта "C:\Users\Daniel\documents\visual studio 2012\Projects\Mario\Mario\Mario.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.64

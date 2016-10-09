@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Журнал создания кода/преобразования текста">
+  <MessageClass Name="Message" Label="Сообщение" Option="Показывать информационные сообщения" />
+  <MessageClass Name="Warning" Label="Предупреждение" Option="Показывать предупреждения" />
+  <MessageClass Name="Error" Label="Ошибка" Option="Показывать ошибки" />
+  <MessageClass Name="Property" Label="Свойство" Option="Показывать метаданные" />
+  <MessageClass Name="Diagnostic" Label="Сообщение" Option="Показывать диагностические сообщения" />
+  <Message Timestamp="2016-05-24T03:13:07" Importance="High" Text="Запущено создание кода или преобразование текста." />
+  <Error Timestamp="2016-05-24T03:13:07" Importance="High" Text="Не найдены шаблоны для обработки.  Настройте шаблоны, нажав кнопку &quot;Настроить параметры создания кода по умолчанию...&quot; в меню &quot;Архитектура&quot;, или измените набор выбранных объектов, для которых запускается создание кода." />
+  <Message Timestamp="2016-05-24T03:13:07" Importance="Diagnostic" Text="Выбрано 1 элементов, не связанных с шаблоном." />
+  <Warning Timestamp="2016-05-24T03:13:07" Importance="Medium" Text="&quot;ModelingProject1::Class2&quot; -  (Class): нет привязанных шаблонов." />
+  <Message Timestamp="2016-05-24T03:13:07" Importance="High" Text="Создание кода завершено. Ошибок: 1. Предупреждений: 1." />
+</Log>
