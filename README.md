@@ -1,2 +1,2 @@
 # Mario
-Used by graphics library SFML
+Using graphics library SFML
