@@ -15,7 +15,7 @@
 * Castle 
 <img src="https://camo.githubusercontent.com/5a0abb28dd0c7658e61022f95d54ce50f8f0f563/68747470733a2f2f70702e757365726170692e636f6d2f633835303633322f763835303633323238352f39326339322f6e3353354f56335871774d2e6a7067"/>
      
-    To complete the level
+      To complete the level
     
 * Key <img src="https://camo.githubusercontent.com/7285c86a11a493ce65a18dd10c72d5bcb9eb7a69/68747470733a2f2f70702e757365726170692e636f6d2f633835303633322f763835303633323238352f39326339392f646a7841586e6d463472732e6a7067"/>
 
@@ -36,6 +36,13 @@
 * King Coopa crab <img src="https://camo.githubusercontent.com/80d1c1abbf285503fce155a28d2ea66afbf8cc32/68747470733a2f2f70702e757365726170692e636f6d2f633835303633322f763835303633323238352f39326362632f314d4c33796a384155414d2e6a7067"/>
 
       Moves vertically. Attacks a Mario only at a certain distance.
+
+## Gameplay control keys
+* ↑ – up
+* ↓ – down
+* ← – left
+* → – right
+* Esc – enable / disable menu
 
 ## Brief demonstration of the game
 ### Beginning of the Level 1
