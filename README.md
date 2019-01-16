@@ -12,8 +12,7 @@
 > During the passage of each level, a stopwatch is started, to record the time that the player has passed the level, and the number of diamonds collected by the player is also counted. Such diamonds at each level, the player can collect a maximum of 15. As soon as the Mario takes the key, the door of the castle opens, and, to complete the level, the player needs to get to the door of the castle.
 
 ## Description of elements in the game
-* Castle 
-<img src="https://camo.githubusercontent.com/5a0abb28dd0c7658e61022f95d54ce50f8f0f563/68747470733a2f2f70702e757365726170692e636f6d2f633835303633322f763835303633323238352f39326339322f6e3353354f56335871774d2e6a7067"/>
+* Castle <img height="32" weight="32" src="https://camo.githubusercontent.com/5a0abb28dd0c7658e61022f95d54ce50f8f0f563/68747470733a2f2f70702e757365726170692e636f6d2f633835303633322f763835303633323238352f39326339322f6e3353354f56335871774d2e6a7067"/>
      
       To complete the level
     
@@ -38,11 +37,11 @@
       Moves vertically. Attacks a Mario only at a certain distance.
 
 ## Gameplay control keys
-* ↑ – up
-* ↓ – down
-* ← – left
-* → – right
-* Esc – enable / disable menu
+* `↑` – up
+* `↓` – down
+* `←` – left
+* `→` – right
+* `Esc` – enable / disable menu
 
 ## Brief demonstration of the game
 ### Beginning of the Level 1
